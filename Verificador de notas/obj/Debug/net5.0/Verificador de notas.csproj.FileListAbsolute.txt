@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\Verificador de notas.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\Verificador de notas.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\Verificador de notas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\Verificador de notas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\Verificador de notas.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\ref\Verificador de notas.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\bin\Debug\net5.0\Verificador de notas.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\ref\Verificador de notas.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Verificador de notas\obj\Debug\net5.0\Verificador de notas.genruntimeconfig.cache
