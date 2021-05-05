@@ -1,0 +1,22 @@
+programa {
+	funcao inicio() {
+	    real nota
+	    logico notaValida
+	    
+		escreva("Escreva uma nota de 1 a 10: ")
+		leia(nota)
+		notaValida = falso
+		
+		enquanto (notaValida == falso){
+		se (nota <= 10 e nota >= 0)  {
+		notaValida = verdadeiro
+		escreva("Obrigado sua nota foi armazenada.")
+		} senao {
+		
+		escreva("Nota inválida escreva uma nota de 1 a 10: ")
+		leia(nota)
+		    
+		    }
+		}
+	}
+}

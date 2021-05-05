@@ -1,0 +1,19 @@
+programa {
+	funcao inicio() {
+		real idade, salario
+		cadeia nome, estadoCivil, empregado
+		logico nomeValidado, idadeValidada, estadoCivilValidado, empregadoValidado
+		
+	    escreva("Digite seu nome: ")
+	    leia(nome)
+	    nomeValidado = falso
+	    enquanto(nomeValidado == falso){
+	    se(nome != " " e nome != ""){
+	        nomeValidado = verdadeiro
+	    }senao{
+	        escreva("Digite seu nome novamente: ")
+	        leia(nome)
+	        }
+	    }
+	}
+}

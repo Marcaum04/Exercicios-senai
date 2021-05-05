@@ -1,0 +1,18 @@
+programa {
+	funcao inicio() {
+	        caracter nome
+	        caracter senha
+	        
+	        escreva("Digite seu nome de usuário: ")
+	        leia(nome)
+	        
+	        escreva("Digite sua senha: ")
+	        leia(senha)
+	        
+	        enquanto(nome == senha){
+	            escreva("Sua senha não pode ser igual ao seu nome\n")
+	            escreva("Digite uma senha diferente do nome de usuário: ")
+	            leia(senha)
+	            }
+		    }
+		}
