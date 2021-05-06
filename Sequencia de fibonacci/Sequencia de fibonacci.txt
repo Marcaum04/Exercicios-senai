@@ -1,0 +1,22 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	
+	inteiro a, b, c, limite	
+
+	limite = 500
+	a = -1
+	b = 1
+	c = 0
+
+	enquanto(c < limite){
+		c = a + b
+		a = b
+		b = c
+		escreva(c + "\n")
+		}
+			
+	}
+}

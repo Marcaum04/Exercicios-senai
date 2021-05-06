@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\Sequencia de fibonacci.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\Sequencia de fibonacci.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\Sequencia de fibonacci.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\Sequencia de fibonacci.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\Sequencia de fibonacci.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\ref\Sequencia de fibonacci.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\bin\Debug\net5.0\Sequencia de fibonacci.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\ref\Sequencia de fibonacci.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Sequencia de fibonacci\obj\Debug\net5.0\Sequencia de fibonacci.genruntimeconfig.cache
