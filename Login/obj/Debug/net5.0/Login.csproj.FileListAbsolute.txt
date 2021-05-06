@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\Login.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\Login.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\Login.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\Login.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\Login.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\ref\Login.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\bin\Debug\net5.0\Login.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\ref\Login.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Login\obj\Debug\net5.0\Login.genruntimeconfig.cache
