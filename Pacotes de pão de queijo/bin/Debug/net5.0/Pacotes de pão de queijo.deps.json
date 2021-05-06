@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pacotes de pão de queijo/1.0.0": {
+        "runtime": {
+          "Pacotes de pão de queijo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacotes de pão de queijo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

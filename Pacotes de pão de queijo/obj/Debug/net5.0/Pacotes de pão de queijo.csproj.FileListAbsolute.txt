@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\Pacotes de pão de queijo.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\Pacotes de pão de queijo.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\Pacotes de pão de queijo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\Pacotes de pão de queijo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\Pacotes de pão de queijo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\ref\Pacotes de pão de queijo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\bin\Debug\net5.0\Pacotes de pão de queijo.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\ref\Pacotes de pão de queijo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Pacotes de pão de queijo\obj\Debug\net5.0\Pacotes de pão de queijo.genruntimeconfig.cache
