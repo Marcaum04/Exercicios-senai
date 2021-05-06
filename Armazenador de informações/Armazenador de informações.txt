@@ -2,7 +2,7 @@ programa {
 	funcao inicio() {
 		real idade, salario
 		cadeia nome, estadoCivil, empregado
-		logico nomeValidado, idadeValidada, estadoCivilValidado, empregadoValidado
+		logico nomeValidado, idadeValidada, estadoCivilValidado, empregadoValidado, salarioValidado
 		
 	    escreva("Digite seu nome: ")
 	    leia(nome)
@@ -11,8 +11,59 @@ programa {
 	    se(nome != " " e nome != ""){
 	        nomeValidado = verdadeiro
 	    }senao{
-	        escreva("Digite seu nome novamente: ")
+	        escreva("Nome inválido digite novamente: ")
 	        leia(nome)
+	        }
+	    }
+
+	    escreva("Digite sua idade: ")
+	    leia(idade)
+	    idadeValidada = falso
+	    enquanto(idadeValidada == falso){
+	    se(idade >=0 e idade <=150){
+	        idadeValidada = verdadeiro
+	    }senao{
+	        escreva("Idade inválida digite uma idade válida: ")
+	        leia(idade)
+	        }
+	    }
+
+	    escreva("Digite seu estado civil s(solteiro(a)), c(casado(a)), v(viuvo(a)), d(divorciado(a)): ")
+	    leia(estadoCivil)
+	    estadoCivilValidado = falso
+	    enquanto(estadoCivilValidado == falso){
+	    se(estadoCivil == "s" ou estadoCivil == "S"){
+	        estadoCivilValidado = verdadeiro
+	    }senao se(estadoCivil == "c" ou estadoCivil == "C"){
+	        estadoCivilValidado = verdadeiro
+	    }senao se(estadoCivil == "v" ou estadoCivil == "V"){
+	    	estadoCivilValidado = verdadeiro
+	    }senao se(estadoCivil == "d" ou estadoCivil == "D"){
+	    	estadoCivilValidado = verdadeiro
+	    }senao{
+	    	escreva("Estado civil inválido digite novamente: ")
+	     leia(estadoCivil)
+	    }
+	    }
+	    escreva("Digite se você está empregado atualmente s/n: ")
+	    leia(empregado)
+	    empregadoValidado = falso
+	    enquanto(empregadoValidado == falso){
+	    se(empregado == "s" ou empregado == "S"){
+	        empregadoValidado = verdadeiro
+	        escreva("Digite seu salário atual: ")
+	        leia(salario)
+	        salarioValidado = falso
+	        enquanto (salarioValidado == falso){
+	        	se(salario > 0){
+	        		salarioValidado = verdadeiro
+	        		}senao{
+	        		escreva("Salário inválido digite seu salário atual: ")
+	        		leia(salario)
+	        			}
+	        	}
+	    }senao{
+	  	empregadoValidado = verdadeiro
 	        }
 	    }
 	}

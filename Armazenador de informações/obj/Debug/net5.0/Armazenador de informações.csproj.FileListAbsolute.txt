@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\Armazenador de informações.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\Armazenador de informações.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\Armazenador de informações.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\Armazenador de informações.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\Armazenador de informações.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\ref\Armazenador de informações.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\bin\Debug\net5.0\Armazenador de informações.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\ref\Armazenador de informações.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Armazenador de informações\obj\Debug\net5.0\Armazenador de informações.genruntimeconfig.cache

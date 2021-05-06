@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Armazenador de informações/1.0.0": {
+        "runtime": {
+          "Armazenador de informações.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Armazenador de informações/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
