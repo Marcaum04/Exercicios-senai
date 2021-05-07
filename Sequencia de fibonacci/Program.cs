@@ -7,19 +7,27 @@ namespace Sequencia_de_fibonacci
         static void Main(string[] args)
         {
 
-            int a, b, c;
+            int numeroAnterior, proximoNumero, resultado;
 
-            a = -1;
-            b = 1;
-            c = 0;
+            numeroAnterior = -1;
+            proximoNumero = 1;
+            resultado = 0;
 
-            while (c < 500)
+            for (int i = 0; i < 15; i++)
             {
-                c = a + b;
-                a = b;
-                b = c;
-                Console.Write(c + " ");
+                resultado = numeroAnterior + proximoNumero;
+                numeroAnterior = proximoNumero;
+                proximoNumero = resultado;
+                Console.Write(resultado + " ");
             }
+
+            // while(resultado < 500)
+            // {
+            //     resultado = numeroAnterior + proximoNumero;
+            //     numeroAnterior = proximoNumero;
+            //     proximoNumero = resultado;
+            //     Console.Write(resultado + " ");
+            // }
         }
     }
 }
