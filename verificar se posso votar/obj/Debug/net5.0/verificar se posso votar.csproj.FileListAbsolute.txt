@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\verificar se posso votar.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\verificar se posso votar.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\verificar se posso votar.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\verificar se posso votar.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\verificar se posso votar.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\ref\verificar se posso votar.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\bin\Debug\net5.0\verificar se posso votar.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\ref\verificar se posso votar.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\verificar se posso votar\obj\Debug\net5.0\verificar se posso votar.genruntimeconfig.cache

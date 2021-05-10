@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "verificar se posso votar/1.0.0": {
+        "runtime": {
+          "verificar se posso votar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "verificar se posso votar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
