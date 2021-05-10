@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\Validador de produtos.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\Validador de produtos.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\Validador de produtos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\Validador de produtos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\Validador de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\ref\Validador de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\bin\Debug\net5.0\Validador de produtos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\ref\Validador de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Validador de produtos\obj\Debug\net5.0\Validador de produtos.genruntimeconfig.cache
