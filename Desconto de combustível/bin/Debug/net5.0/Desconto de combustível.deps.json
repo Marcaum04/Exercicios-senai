@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Desconto de combustível/1.0.0": {
+        "runtime": {
+          "Desconto de combustível.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desconto de combustível/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

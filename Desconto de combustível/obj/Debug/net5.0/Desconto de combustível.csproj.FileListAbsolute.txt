@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\Desconto de combustível.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\Desconto de combustível.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\Desconto de combustível.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\Desconto de combustível.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\Desconto de combustível.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\ref\Desconto de combustível.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\bin\Debug\net5.0\Desconto de combustível.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\ref\Desconto de combustível.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Desconto de combustível\obj\Debug\net5.0\Desconto de combustível.genruntimeconfig.cache
