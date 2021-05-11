@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\Comparador de valores.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\Comparador de valores.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\Comparador de valores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\Comparador de valores.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\Comparador de valores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\ref\Comparador de valores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\bin\Debug\net5.0\Comparador de valores.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\ref\Comparador de valores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Comparador de valores\obj\Debug\net5.0\Comparador de valores.genruntimeconfig.cache
