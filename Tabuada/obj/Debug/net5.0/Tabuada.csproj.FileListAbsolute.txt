@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\Tabuada.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\Tabuada.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache
