@@ -22,8 +22,8 @@ namespace Comparador_de_valores
             double numeroMaior = 0;
             double numeroMenor = 0;
 
-            numeroMaior = numeros[0] + 1;
-             numeroMenor = numeros[0] - 1;
+            numeroMaior = numeros[0];
+             numeroMenor = numeros[0];
 
             while (um < 9)
             {
