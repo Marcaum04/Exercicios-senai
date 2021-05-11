@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\Inversor de ordem.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\Inversor de ordem.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\Inversor de ordem.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\Inversor de ordem.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\Inversor de ordem.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\ref\Inversor de ordem.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\bin\Debug\net5.0\Inversor de ordem.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\ref\Inversor de ordem.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Inversor de ordem\obj\Debug\net5.0\Inversor de ordem.genruntimeconfig.cache
