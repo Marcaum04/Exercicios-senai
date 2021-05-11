@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\Procurador de nomes.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\Procurador de nomes.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\Procurador de nomes.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\Procurador de nomes.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\Procurador de nomes.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\ref\Procurador de nomes.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\bin\Debug\net5.0\Procurador de nomes.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\ref\Procurador de nomes.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Procurador de nomes\obj\Debug\net5.0\Procurador de nomes.genruntimeconfig.cache
