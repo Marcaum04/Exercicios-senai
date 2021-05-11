@@ -21,31 +21,29 @@ namespace Comparador_de_valores
 
             double numeroMaior = 0;
             double numeroMenor = 0;
-            double maior = 0;
-            double menor = 0;
+
+            numeroMaior = numeros[0] + 1;
+             numeroMenor = numeros[0] - 1;
 
             while (um < 9)
             {
                 int primeiro;
                 primeiro = numeros[um];
-                numeroMaior = numeros[0] + 1;
-                numeroMenor = numeros[0] - 1;
-
 
                 if (numeroMaior < primeiro)
                 {
-                    maior = primeiro;
+                    numeroMaior = primeiro;
                 }
-                else if (numeroMenor > primeiro)
+                if (numeroMenor > primeiro)
                 {
-                    menor = primeiro;
+                    numeroMenor = primeiro;
                 }
                 
                 um++;
             }
 
-            Console.WriteLine($"O maior número digitado foi: {maior}");
-            Console.WriteLine($"O menor número digitado foi: {menor}");
+            Console.WriteLine($"O maior número digitado foi: {numeroMaior}");
+            Console.WriteLine($"O menor número digitado foi: {numeroMenor}");
 
         }
     }
