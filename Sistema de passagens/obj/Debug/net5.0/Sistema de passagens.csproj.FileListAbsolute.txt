@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\Sistema de passagens.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\Sistema de passagens.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\Sistema de passagens.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\Sistema de passagens.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\Sistema de passagens.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\ref\Sistema de passagens.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\bin\Debug\net5.0\Sistema de passagens.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\ref\Sistema de passagens.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Sistema de passagens\obj\Debug\net5.0\Sistema de passagens.genruntimeconfig.cache
