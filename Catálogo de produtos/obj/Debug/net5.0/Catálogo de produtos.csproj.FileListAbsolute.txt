@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\bin\Debug\net5.0\Catálogo de produtos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\ref\Catálogo de produtos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Catálogo de produtos\obj\Debug\net5.0\Catálogo de produtos.genruntimeconfig.cache
