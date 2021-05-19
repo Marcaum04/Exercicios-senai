@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\POO Celular - Entrega.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\POO Celular - Entrega.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\POO Celular - Entrega.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\POO Celular - Entrega.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\POO Celular - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\ref\POO Celular - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\bin\Debug\net5.0\POO Celular - Entrega.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\ref\POO Celular - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Celular - Entrega\obj\Debug\net5.0\POO Celular - Entrega.genruntimeconfig.cache
