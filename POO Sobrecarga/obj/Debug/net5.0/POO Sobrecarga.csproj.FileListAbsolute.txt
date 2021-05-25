@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\POO Sobrecarga.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\POO Sobrecarga.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\POO Sobrecarga.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\POO Sobrecarga.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\POO Sobrecarga.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\ref\POO Sobrecarga.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\bin\Debug\net5.0\POO Sobrecarga.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\ref\POO Sobrecarga.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Sobrecarga\obj\Debug\net5.0\POO Sobrecarga.genruntimeconfig.cache
