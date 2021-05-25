@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\POO Polimorfismo.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\POO Polimorfismo.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\POO Polimorfismo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\POO Polimorfismo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\POO Polimorfismo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\ref\POO Polimorfismo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\bin\Debug\net5.0\POO Polimorfismo.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\ref\POO Polimorfismo.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Polimorfismo\obj\Debug\net5.0\POO Polimorfismo.genruntimeconfig.cache
