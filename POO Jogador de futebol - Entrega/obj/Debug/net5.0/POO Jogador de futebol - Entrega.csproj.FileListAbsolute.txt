@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\POO Jogador de futebol - Entrega.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\POO Jogador de futebol - Entrega.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\POO Jogador de futebol - Entrega.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\POO Jogador de futebol - Entrega.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\POO Jogador de futebol - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\ref\POO Jogador de futebol - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\bin\Debug\net5.0\POO Jogador de futebol - Entrega.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\ref\POO Jogador de futebol - Entrega.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\POO Jogador de futebol - Entrega\obj\Debug\net5.0\POO Jogador de futebol - Entrega.genruntimeconfig.cache
