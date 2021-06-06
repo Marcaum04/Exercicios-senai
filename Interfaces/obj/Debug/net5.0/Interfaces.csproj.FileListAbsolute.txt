@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
