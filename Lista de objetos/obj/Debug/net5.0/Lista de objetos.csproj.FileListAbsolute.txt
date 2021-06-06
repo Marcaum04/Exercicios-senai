@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\Lista de objetos.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\Lista de objetos.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\Lista de objetos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\Lista de objetos.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\Lista de objetos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\ref\Lista de objetos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\bin\Debug\net5.0\Lista de objetos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\ref\Lista de objetos.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Lista de objetos\obj\Debug\net5.0\Lista de objetos.genruntimeconfig.cache
