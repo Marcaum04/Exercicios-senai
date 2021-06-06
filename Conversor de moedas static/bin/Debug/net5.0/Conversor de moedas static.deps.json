@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conversor de moedas static/1.0.0": {
+        "runtime": {
+          "Conversor de moedas static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversor de moedas static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

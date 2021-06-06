@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\Conversor de moedas static.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\Conversor de moedas static.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\Conversor de moedas static.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\Conversor de moedas static.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\Conversor de moedas static.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\ref\Conversor de moedas static.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\bin\Debug\net5.0\Conversor de moedas static.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\ref\Conversor de moedas static.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Conversor de moedas static\obj\Debug\net5.0\Conversor de moedas static.genruntimeconfig.cache
