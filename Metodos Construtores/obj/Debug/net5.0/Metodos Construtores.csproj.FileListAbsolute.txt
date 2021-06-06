@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\Metodos Construtores.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\Metodos Construtores.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\Metodos Construtores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\Metodos Construtores.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\Metodos Construtores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\ref\Metodos Construtores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\bin\Debug\net5.0\Metodos Construtores.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\ref\Metodos Construtores.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\Metodos Construtores\obj\Debug\net5.0\Metodos Construtores.genruntimeconfig.cache
