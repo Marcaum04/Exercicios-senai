@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\MVC.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\MVC.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\MVC.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\MVC.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\MVC.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\ref\MVC.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\bin\Debug\net5.0\MVC.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\ref\MVC.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\Exercicios-senai\MVC\obj\Debug\net5.0\MVC.genruntimeconfig.cache
